@@ -15,5 +15,7 @@ module.exports = {
   plugins: [
     '@typescript-eslint',
   ],
-  rules: {},
+  rules: {
+    'linebreak-style': 0
+  },
 };
