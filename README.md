@@ -37,7 +37,7 @@ This starts an HTTP server listening on `localhost` and open up your default bro
 
 To make a production build, simply run
 
-```
+```bash
 npm run build
 ```
 
