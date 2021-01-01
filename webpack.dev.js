@@ -14,6 +14,7 @@ module.exports = common, {
     compress: true,
     noInfo: true,
     open: true,
+    hot: true
   },
 
   module: {
