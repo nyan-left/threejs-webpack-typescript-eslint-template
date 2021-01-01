@@ -8,6 +8,10 @@ Template for creating MediaWiki Services in Node.js
 
 First, clone the repository
 
+#### GitHub Template:
+Just press on `Use This Template` button :D
+
+#### Git:
 ```bash
 git clone https://github.com/nyan-left/threejs-webpack-typescript-eslint-template
 ```
