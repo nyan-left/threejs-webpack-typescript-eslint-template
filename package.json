@@ -9,7 +9,7 @@
   "author": "Deimantas Jakovlevas",
   "license": "MIT",
   "dependencies": {
-    "three": "^0.124.0"
+    "three": "^0.142.0"
   },
   "devDependencies": {
     "webpack-merge": "^5.7.3",
